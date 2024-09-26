@@ -10,7 +10,7 @@ on:
 jobs:
   uv-example:
     # uncomment the line before to disable this job if needed.
-    if: false
+    # if: false
     name: python
     runs-on: ubuntu-latest
     strategy:
