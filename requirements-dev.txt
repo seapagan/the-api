@@ -75,7 +75,7 @@ pytest-sugar==1.0.0
 pytest-watcher==0.4.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-python-multipart==0.0.10
+python-multipart==0.0.18
 pyyaml==6.0.2
 pyyaml-env-tag==0.1
 regex==2024.9.11
